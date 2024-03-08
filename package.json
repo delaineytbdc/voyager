@@ -1,0 +1,26 @@
+{
+"name": "voy-ager-51",
+"version": "1.0.0",
+"description": " a versatile platform designed to assist travelers in planning and organizing their trips efficiently. ",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/delaineytbdc/voyager.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "delaineytbdc",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
